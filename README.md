@@ -12,11 +12,11 @@ I have done this assignment for Internship position with using React JS.
 
 
  ## INSTALL 
-    $ git clone https://github.com/MostafaIn/wolt-summer2020.git
-    $ cd wolt-assignment
+    $ git clone https://github.com/MostafaIn/meetingPackege_TASK.git
+    $ cd meetingpackege_TASK
     $ npm install
 
-## Start & watch
+## Start & watch :)
 
     $ npm start  OR yarn start
 
