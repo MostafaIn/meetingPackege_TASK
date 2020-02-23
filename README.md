@@ -13,7 +13,7 @@ I have done this assignment for Internship position with using React JS.
 
  ## INSTALL 
     $ git clone https://github.com/MostafaIn/meetingPackege_TASK.git
-    $ cd meetingpackege_TASK
+    $ cd meetingPackege_TASK
     $ npm install
 
 ## Start & watch :)
